@@ -11,6 +11,7 @@ export default function Page() {
         src="https://mdx.fubon.ru/og"
         width={640}
         height={480}
+        priority
         alt=""
       />
       <div className="my-8">
