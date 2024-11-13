@@ -5,6 +5,11 @@ export default function Page() {
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Title</h1>
       <p className="mb-4">Hello</p>
+
+      <img
+        src="https://mdx.fubon.ru/og"
+        alt=""
+      />
       <div className="my-8">
         <BlogPosts />
       </div>
