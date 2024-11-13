@@ -1,4 +1,5 @@
 import { BlogPosts } from 'app/components/posts'
+import Image from 'next/image'
 
 export default function Page() {
   return (
@@ -6,8 +7,10 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Title</h1>
       <p className="mb-4">Hello</p>
 
-      <img
+      <Image
         src="https://mdx.fubon.ru/og"
+        width={640}
+        height={480}
         alt=""
       />
       <div className="my-8">
