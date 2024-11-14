@@ -8,7 +8,7 @@ export default function Page() {
       <p className="mb-4">Hello</p>
 
       <Image
-        src="https://mdx.fubon.ru/og"
+        src="/og"
         width={640}
         height={480}
         priority
