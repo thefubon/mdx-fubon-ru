@@ -1,4 +1,4 @@
-# Portfolio Blog Starter
+# MDX BLOG
 
 This is a porfolio site template complete with a blog. Includes:
 
@@ -13,7 +13,7 @@ This is a porfolio site template complete with a blog. Includes:
 
 ## Demo
 
-https://portfolio-blog-starter.vercel.app
+https://mdx.fubon.ru
 
 ## How to Use
 
